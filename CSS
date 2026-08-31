@@ -5,8 +5,8 @@ body {
 }
 
 header {
-    background-color: #0b0126; /* cor de fundo */
-    color: #ffffff;            /* Cor da fonte */
+    background-color: #af9dde; /* cor de fundo */
+    color: #050e66;            /* Cor da fonte */
     text-align: center;        /* centraliza o texto horizontalmente */
     max-width: 600px;          /* define a largura máxima que o elemento pode ter */
     margin: 0 auto;            /* centraliza o bloco inteiro na tela */
